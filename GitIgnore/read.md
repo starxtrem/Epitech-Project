@@ -1,2 +1,2 @@
-Rename git.txt to .gitignore
-And move on your file
+# Epitech Git Ignore Basic
+Rename git.txt to .gitignore and move on your file
